@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\UnitTesting\\HW \u043D\u0430 17.10.2025\\HW \u043D\u0430 13.10.2025\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49406F63-40DF-4276-97C0-DD93496CE267}|HW \u043D\u0430 13.10.2025\\HW \u043D\u0430 13.10.2025.csproj|c:\\\u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\unittesting\\hw \u043D\u0430 17.10.2025\\hw \u043D\u0430 13.10.2025\\hw \u043D\u0430 13.10.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49406F63-40DF-4276-97C0-DD93496CE267}|HW \u043D\u0430 13.10.2025\\HW \u043D\u0430 13.10.2025.csproj|solutionrelative:hw \u043D\u0430 13.10.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA108A3-DB58-4706-8297-01EA11996B4B}|TestsFrequencyDictionar\\TestsFrequencyDictionar.csproj|c:\\\u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\unittesting\\hw \u043D\u0430 17.10.2025\\hw \u043D\u0430 13.10.2025\\testsfrequencydictionar\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA108A3-DB58-4706-8297-01EA11996B4B}|TestsFrequencyDictionar\\TestsFrequencyDictionar.csproj|solutionrelative:testsfrequencydictionar\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\UnitTesting\\HW \u043D\u0430 17.10.2025\\HW \u043D\u0430 13.10.2025\\HW \u043D\u0430 13.10.2025\\Program.cs",
+              "RelativeDocumentMoniker": "HW \u043D\u0430 13.10.2025\\Program.cs",
+              "ToolTip": "C:\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\UnitTesting\\HW \u043D\u0430 17.10.2025\\HW \u043D\u0430 13.10.2025\\HW \u043D\u0430 13.10.2025\\Program.cs",
+              "RelativeToolTip": "HW \u043D\u0430 13.10.2025\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T19:43:52.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\UnitTesting\\HW \u043D\u0430 17.10.2025\\HW \u043D\u0430 13.10.2025\\TestsFrequencyDictionar\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestsFrequencyDictionar\\UnitTest1.cs",
+              "ToolTip": "C:\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\UnitTesting\\HW \u043D\u0430 17.10.2025\\HW \u043D\u0430 13.10.2025\\TestsFrequencyDictionar\\UnitTest1.cs*",
+              "RelativeToolTip": "TestsFrequencyDictionar\\UnitTest1.cs*",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T19:43:05.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

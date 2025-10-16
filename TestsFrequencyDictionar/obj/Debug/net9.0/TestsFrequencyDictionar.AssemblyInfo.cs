@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestsFrequencyDictionar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d62fc7549386ba6ec41ab99c236b298ca303850")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestsFrequencyDictionar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestsFrequencyDictionar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

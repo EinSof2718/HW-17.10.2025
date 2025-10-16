@@ -12,3 +12,4 @@ C:\Академия\UnitTesting\HW на 17.10.2025\HW на 13.10.2025\HW на 13
 C:\Академия\UnitTesting\HW на 17.10.2025\HW на 13.10.2025\HW на 13.10.2025\obj\Debug\net9.0\HW на 13.10.2025.pdb
 C:\Академия\UnitTesting\HW на 17.10.2025\HW на 13.10.2025\HW на 13.10.2025\obj\Debug\net9.0\HW на 13.10.2025.genruntimeconfig.cache
 C:\Академия\UnitTesting\HW на 17.10.2025\HW на 13.10.2025\HW на 13.10.2025\obj\Debug\net9.0\ref\HW на 13.10.2025.dll
+C:\Академия\UnitTesting\HW на 17.10.2025\HW на 13.10.2025\HW на 13.10.2025\obj\Debug\net9.0\HW на 13.10.2025.sourcelink.json

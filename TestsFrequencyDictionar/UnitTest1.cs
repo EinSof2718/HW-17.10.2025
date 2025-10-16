@@ -96,16 +96,5 @@ namespace TestsFrequencyDictionar
             Assert.That(words.Count(), Is.EqualTo(6));
         }//Test7
 
-        /*//Игнорирование чисел
-        [Test]
-        public void Test8()
-        {
-            var text = "word1 123 word2 456";
-            var words = dictionary.ExtractWords(text);
-
-            Assert.That(words.Count(), Is.EqualTo(2));
-            Assert.That(words, Contains.Item("word1"));
-            Assert.That(words, Contains.Item("word2"));
-        }//Test8*/
     }
 }

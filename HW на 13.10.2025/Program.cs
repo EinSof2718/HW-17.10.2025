@@ -21,6 +21,9 @@ namespace HW_на_13._10._2025
             string resFileName = "result.txt";
             dictionaryCreator.Save(frequencyDictionary, resFileName);
             Console.WriteLine($"\n\nРезультат сохранен в: {Path.GetFullPath(resFileName)}");
+
+
+            Console.WriteLine("Add to Second commit");
         }//Main
     }
 }
