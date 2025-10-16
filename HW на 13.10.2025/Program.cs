@@ -24,6 +24,8 @@ namespace HW_на_13._10._2025
 
 
             //Console.WriteLine("Add to Second commit");
+
+            Console.WriteLine("using .gitignore");
         }//Main
     }
 }
