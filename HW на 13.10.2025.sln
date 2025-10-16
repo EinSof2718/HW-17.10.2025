@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW на 13.10.2025", "HW на 13.10.2025\HW на 13.10.2025.csproj", "{49406F63-40DF-4276-97C0-DD93496CE267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestsFrequencyDictionar", "TestsFrequencyDictionar\TestsFrequencyDictionar.csproj", "{9AA108A3-DB58-4706-8297-01EA11996B4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49406F63-40DF-4276-97C0-DD93496CE267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49406F63-40DF-4276-97C0-DD93496CE267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49406F63-40DF-4276-97C0-DD93496CE267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49406F63-40DF-4276-97C0-DD93496CE267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA108A3-DB58-4706-8297-01EA11996B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA108A3-DB58-4706-8297-01EA11996B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA108A3-DB58-4706-8297-01EA11996B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA108A3-DB58-4706-8297-01EA11996B4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1AEC600-D27D-40ED-93B4-2F2EEE66869E}
+	EndGlobalSection
+EndGlobal
